@@ -1,5 +1,7 @@
 Salom
-Lochinbek
+<<<<<<<<< Temporary merge branch 1
 Boris
 Hojiakbar
- 
+=========
+Lochinbek
+>>>>>>>>> Temporary merge branch 2
